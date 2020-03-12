@@ -1,0 +1,7 @@
+published
+obj
+bin
+Dockerfile
+Dockerfile.*
+README.md
+.dockerignore
